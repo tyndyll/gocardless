@@ -1,0 +1,3 @@
+package gocardless
+
+// IDEMPOTENCY KEYS
